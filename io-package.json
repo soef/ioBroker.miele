@@ -11,8 +11,8 @@
     "platform": "Javascript/Node.js",
     "mode": "daemon",
     "icon": "miele.png",
-    "extIcon": "https://raw.githubusercontent.com/soef/iobroker.miele/master/admin/miele.png",
-    "readme": "https://github.com/soef/iobroker.miele/blob/master/README.md",
+    "extIcon": "https://raw.githubusercontent.com/soef/ioBroker.miele/master/admin/miele.png",
+    "readme": "https://github.com/soef/ioBroker.miele/blob/master/README.md",
     "loglevel": "info",
     "type": "hardware"
   },
