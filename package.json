@@ -12,7 +12,7 @@
       "email": "soef@gmx.net"
     }
   ],
-  "homepage": "https://github.com/soef/iobroker.miele",
+  "homepage": "https://github.com/soef/ioBroker.miele",
   "license": "MIT",
   "keywords": [
     "ioBroker",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/soef/iobroker.miele"
+    "url": "https://github.com/soef/ioBroker.miele"
   },
   "dependencies": {
     "xml2js": "^0.4.16"
@@ -30,7 +30,7 @@
   "devDependencies": {
   },
   "bugs": {
-    "url": "https://github.com/soef/iobroker.miele/issues"
+    "url": "https://github.com/soef/ioBroker.miele/issues"
   },
   "readmeFilename": "README.md"
 }
